@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenCaptureApp</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+    <string name="recording_completed">Screen recording is completed. Please check it in device\'s Downloads directory.</string>
+    <string name="recording_status">Recording Status</string>
+    <string name="start">Start</string>
+</resources>
